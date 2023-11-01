@@ -3,7 +3,7 @@ Chatroom Application using PHP
 
 A chatroom application is a software program that facilitates real-time text-based communication between multiple users. It allows users to create or join chat rooms based on specific topics or interests and interact with other users in a virtual environment.
 
-a chatroom application involves designing and developing a web-based platform that enables users to communicate with each other in real-time using a messaging system and a chatroom interface. The project requires technical skills such as PHP programming language, database management, and web development concepts, as well as creativity and attention to detail.
+A chatroom application involves designing and developing a web-based platform that enables users to communicate with each other in real-time using a messaging system and a chatroom interface. The project requires technical skills such as PHP programming language, database management, and web development concepts such as HTML, and CSS, as well as creativity and attention to detail.
 
 The following are the key features and requirements for a basic chatroom application project in PHP:
 
